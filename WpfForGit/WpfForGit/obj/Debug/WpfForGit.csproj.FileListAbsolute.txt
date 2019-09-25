@@ -1,0 +1,15 @@
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\bin\Debug\WpfForGit.exe.config
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\bin\Debug\WpfForGit.exe
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\bin\Debug\WpfForGit.pdb
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit.csprojAssemblyReference.cache
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\MainWindow.g.cs
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\App.g.cs
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit_MarkupCompile.cache
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit_MarkupCompile.lref
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\MainWindow.baml
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit.g.resources
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit.Properties.Resources.resources
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit.csproj.GenerateResource.cache
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit.csproj.CoreCompileInputs.cache
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit.exe
+C:\Users\Jdhoo\Documents\CIBGit\WpfForGit\WpfForGit\obj\Debug\WpfForGit.pdb

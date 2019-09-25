@@ -24,5 +24,10 @@ namespace WpfForGit
         {
             InitializeComponent();
         }
+
+        private void BtnMessages_Click(object sender, RoutedEventArgs e)
+        {
+            lblMessages.Items.Add("Welkom");
+        }
     }
 }

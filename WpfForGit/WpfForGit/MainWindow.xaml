@@ -8,8 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Werken met git" HorizontalAlignment="Left" Margin="211,145,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="btnMessages" Content="voeg berichten toe" HorizontalAlignment="Left" Margin="184,176,0,0" VerticalAlignment="Top" Width="156"/>
-        <TextBlock x:Name="txtInfo" HorizontalAlignment="Left" Margin="184,225,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="157" Width="156"/>
+        <Button x:Name="btnMessages" Content="voeg berichten toe" HorizontalAlignment="Left" Margin="184,176,0,0" VerticalAlignment="Top" Width="156" Click="BtnMessages_Click"/>
+        <ListBox x:Name="lblMessages" HorizontalAlignment="Left" Height="135" Margin="184,222,0,0" VerticalAlignment="Top" Width="156"/>
 
     </Grid>
 </Window>
